@@ -13,8 +13,17 @@ export default function Home() {
       <main>
         <Header title="DB Joinery" />
         <p className="description">
-          Contact for quotes and availability
+          Contact for quotes and availability at david@db-joinery.co.uk
         </p>
+<p>Mob: 07935581254 </p>
+
+<p>
+Kitchens
+Bathrooms
+Workshops
+Doors
+Etc
+</p>
       </main>
 
       <Footer />
